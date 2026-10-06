@@ -70,7 +70,7 @@ Tot i que TechNova ha crescut en nombre de clients i empleats, la seva infraestr
 [ ] Societat Anònima (S.A.)  
 [ ] Altres: \_\_\_\_\_\_\_\_\_\_\_
 
-**Justificació**: 
+**Justificació**: tal com indica el nom TechNova S.L.
 
 
 - Classificació per mida:
@@ -102,19 +102,19 @@ Desenvolupament utilitza Trello, l’Administració treballa amb un programari c
 
 2. Quins problemes podrien sorgir per utilitzar eines no integrades?
 
-**Resposta:** * Sense traçabilitat ni control centralitzat, genera duplicacions i pèrdua de versions, sense integració amb contractes ni facturació, les empreses no poden comunicar entre ells...
+**Resposta:** * Sense traçabilitat ni control centralitzat, genera duplicacions i pèrdua de versions, sense integració amb contractes ni facturació, les empreses no poden comunicar informacions entre ells...
   
 3. Quins processos s’estan gestionant per separat en diversos departaments i podrien beneficiar-se d’una gestió integrada?  
 
-**Resposta:** 
+**Resposta:** * s'en divideix en Consultoria tecnològica, Desenvolupament d’aplicacions web i mòbils, Manteniment i suport tècnic post implementació.
   
 4. Quines conseqüències pot tenir aquesta situació si l’empresa continua creixent? 
 
-**Resposta:** 
+**Resposta:** Augmentaren errors per la duplicacio manual dels empleats i la perdida d'informacio critica dels clients.
   
 5. Quins processos haurien d’estar connectats per millorar l’eficiència?
 
-**Resposta:** 
+**Resposta:** Deixant d'utilitzar eines fulls d’Excel, documents Word, Trello i un programari comptable local. Automatizant les nòmines.
 
 
 ---
