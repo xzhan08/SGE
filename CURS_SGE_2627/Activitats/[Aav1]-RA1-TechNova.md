@@ -126,18 +126,19 @@ Desenvolupament utilitza Trello, l’Administració treballa amb un programari c
      
     [ ] IaaS  
     [ ] PaaS  
-    [ ] SaaS  
+    [x] SaaS  
    
 
-**Justificació**: 
+**Justificació**: És el més fàcil; pagues una subscripció a Internet i el proveïdor s'encarrega de mantenir el programa i els servidors.
+
 
 2. Quina arquitectura d’ERP seria més adequada?  
      
     [ ] ERP de 2 capes (client-servidor)  
-    [ ] ERP de 3 capes (presentació, lògica, dades)  
+    [x] ERP de 3 capes (presentació, lògica, dades)  
    
 
-**Justificació**: 
+**Justificació**: Perque es mes segur, escalable i robusta
 
 ---
 
@@ -145,17 +146,17 @@ Desenvolupament utilitza Trello, l’Administració treballa amb un programari c
 
 1. És necessari implantar un ERP complet?
 
-    [ ] Sí  
+    [x] Sí  
     [ ] No
 
-**Justificació**: 
+**Justificació**: perquè tots els departaments tenen problemes (Excel, Word, Trello) i necessiten estar connectats entre si.
 
 2. Seria suficient implantar només un CRM?
 
  	[ ] Sí  
- 	[ ] No
+ 	[x] No
 
-**Justificació**: 
+**Justificació**:  perquè el CRM només serveix per a vendes i clients, i deixaria abandonats els problemes de nòmines i factures.
 
 ---
 
@@ -164,15 +165,15 @@ Desenvolupament utilitza Trello, l’Administració treballa amb un programari c
 
 1. Quin impacte tindria l’ERP en la cultura de l’empresa? 
 
-**Resposta:** 
+**Resposta:**  L'empresa deixarà de treballar ailladament i passarà a una cultura transparent on tothom comparteix les dades en el mateix temps.
    
 2. Quines resistències podrien sorgir i com es podrien gestionar?  
 
-**Resposta:** 
+**Resposta:** Hi haurà por a perdre la feina; es fa explicant clarament el canvi.
   
 3. Com justificaries la inversió davant la direcció?  
 
-**Resposta:** 
+**Resposta:** Es justifica perquè s'estalviaran moltes hores de feina manual, s'eliminaran els errors de facturació i es vendrà més ràpid.
   
 ---
 
@@ -181,49 +182,49 @@ Desenvolupament utilitza Trello, l’Administració treballa amb un programari c
 1. Quin indicador reflecteix millor la millora en la gestió de factures després d’implantar l’ERP?  
      
     [ ] Nombre de clients nous al mes  
-    [ ] Reducció d’errors en facturació (%)  
+    [x] Reducció d’errors en facturació (%)  
     [ ] Temps mitjà de resposta a xarxes socials  
     [ ] Nombre de campanyes actives  
    
 
-**Justificació**: 
+**Justificació**: Si el programa automatitza els càlculs, ara és veure que ja no es cometen errors humans en fer factures.
 
 2. Si l’ERP connecta Vendes amb Desenvolupament, quin KPI seria més útil per mesurar-ne l’impacte?  
      
-    [ ] Projectes lliurats a temps (%)  
+    [x] Projectes lliurats a temps (%)  
     [ ] Nombre de reunions internes  
     [ ] Taxa de conversió de leads  
     [ ] Cost mitjà per campanya  
    
 
-**Justificació**: 
+**Justificació**: Com que els programadors veuen els contractes a l'acte, planifiquen millor i acaben els projectes quan toca.
 
 3. Quin indicador ajuda a avaluar si RRHH gestiona millor les absències després de l’ERP?  
      
-    [ ] Absències registrades correctament (%)  
+    [x] Absències registrades correctament (%)  
     [ ] Nombre d’empleats contractats  
     [ ] Temps mitjà de formació per empleat  
     [ ] Cost mensual de nòmines  
    
 
-**Justificació**: 
+**Justificació**: Al deixar l'Excel manual, es mesura l'èxit veient que totes les baixes i vacances queden apuntades al sistema sense pèrdues.
 
 4. Quin KPI reflecteix millor l’eficiència comercial després d’integrar CRM i ERP?  
      
-    [ ] Taxa de conversió de clients (%)  
+    [x] Taxa de conversió de clients (%)  
     [ ] Nombre de correus enviats  
     [ ] Temps mitjà de càrrega del web  
     [ ] Nombre d’incidències tècniques  
    
 
-**Justificació**: 
+**Justificació**: Amb el CRM i l'ERP units, l'equip comercial fa un millor seguiment i aconsegueix tancar més contractes amb èxit.
 
 5. Quin indicador seria útil per justificar la inversió davant la direcció?  
      
-    [ ] Reducció d’errors, millora en lliuraments i augment de conversió  
+    [x] Reducció d’errors, millora en lliuraments i augment de conversió  
     [ ] Nombre d’empleats que utilitzen l’ERP  
     [ ] Quantitat de mòduls contractats  
     [ ] Temps dedicat a formació  
    
 
-**Justificació**:
+**Justificació**: Els caps volen veure beneficis globals: menys errades, clients més contents i més vendes per recuperar els diners.
