@@ -30,26 +30,36 @@ RA1: Identifica sistemes de planificació de recursos empresarials i de gestió 
 
 Reprenent les comprovacions fetes a l'**activitat 1.4**:
 
-### 1. Informe d'operacions realitzades
+## 1. Informe d'operacions realitzades
 
-Redacteu un informe amb com a mínim **3 operacions** (les comprovacions fetes a l'activitat 1.4), seguint aquesta plantilla per a cadascuna:
+### Operació 1
+* **Operació:** Verificació del Sistema Operatiu i l'espai lliure en disc.
+* **Comanda/acció executada:** Comprovació de les propietats del sistema a Windows 11 i revisió de l'espai de l'unitat de disc principal (C:).
+* **Resultat obtingut:** Windows 11 (versió 25H2) amb 239 GB d'espai lliure en disc. El sistema compleix amb els requisits d'emmagatzematge de sobres.
+* **Data:** 24 d'octubre de 2026
 
-* **Operació:**
-* **Comanda/acció executada:**
-* **Resultat obtingut:**
-* **Data:**
+### Operació 2
+* **Operació:** Comprovació de la disponibilitat del port de connexió per defecte de PostgreSQL (5432).
+* **Comanda/acció executada:** **tstat -ano | findstr 5432**
+* **Resultat obtingut:** El port està lliure (la comanda no ha retornat cap línia de text ni procés actiu).
+* **Data:** 24 d'octubre de 2026
 
-### 2. Documentació d'una incidència
+### Operació 3
+* **Operació:** Comprovació de la disponibilitat del port per defecte d'Odoo (8069).
+* **Comanda/acció executada:** **tstat -ano | findstr 8069**
+* **Resultat obtingut:** El port està lliure (sense cap servei escoltant en aquesta adreça), apte per a la futura instal·lació d'Odoo.
+* **Data:** 24 d'octubre de 2026|
 
-Documenteu **almenys una incidència** trobada durant les comprovacions de l'activitat 1.4 (p. ex. una versió de Python massa antiga, PostgreSQL no instal·lat, el port 5432 ocupat per un altre servei, espai en disc insuficient...).
+## 2. Documentació d'una incidència
 
-Si no n'heu trobat cap de real, proposeu-ne una de versemblant i expliqueu com la resoldríeu.
-
-Plantilla:
-
-* **Data i hora:**
-* **Descripció del problema:**
+* **Data i hora:** 24 d'octubre de 2026 a les 13:30 PM
+* **Descripció del problema:** Durant les comprovacions d'entorn per a la instal·lació del sistema ERP, s'ha detectat que el sistema de gestió de bases de dades PostgreSQL no es troben instal·lats ni configurats al sistema operatiu.
 * **Passos per reproduir-lo:**
-* **Missatge d'error obtingut:**
-* **Causa detectada:**
+  1. Obrir la línia de comandes (CMD).
+  2. Executar la comanda per mirar la versió de Python: **python --version**.
+  3. Executar la comanda per mirar la versió de PostgreSQL: **psql --version**.
+* **Missatge d'error obtingut:** (Not found).
+* **Causa detectada:** El sistema informàtic base (Windows 11) és una instal·lació neta o de treball general que encara no té configurat el programari ni l'entorn de desenvolupament necessari per allotjar Odoo.
 * **Solució aplicada (o proposada):**
+  * **Per a Python:** Descarregar l'instal·lador oficial executable des de la pàgina web de Python o instal·lar directament el paquet oficial des de la Microsoft Store。
+  * **Per a PostgreSQL:** Descarregar l'instal·lador per a Windows des del lloc web oficial de PostgreSQL, seguir els passos de l'assistent d'instal·lació, configurar una contrasenya segura per a l'usuari principal (**postgres**) i verificar que el servei s'iniciï automàticament a Windows.
