@@ -304,3 +304,5 @@ Aquest test consta de 33 preguntes tipus test (opció múltiple, resposta única
     D) Perquè sempre requereix un ERP addicional
 
 **Resposta:__B__**
+
+intent arreglar error roger
