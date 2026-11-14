@@ -36,7 +36,7 @@ Crear una empresa fictícia que us agradi i recrear els seus processos i funcion
 * Sector d’activitat i productes/serveis.  
 * Organigrama bàsic de rols, exemple:
 
- <img style="border-radius: 5px;" src="img/屏幕截图 2026-11-10 125054.png" width="600"/><br>
+ <img style="border-radius: 5px;" src="img/foto1.png" width="600"/><br>
 
 * Model de negoci (B2B, B2C, etc.).
 Planificació de processos: clients, proveïdors, departaments, productes amb referències d’ERP, 11 treballadors i els processos de fabricació, compres, vendes/CRM, RRHH, facturació i informes.
@@ -61,7 +61,7 @@ Planificació de processos: clients, proveïdors, departaments, productes amb re
 
 ### Organigrama bàsic de rols
 
- <img style="border-radius: 5px;" src="img/屏幕截图 2026-11-11 144005.png" width="600"/><br>
+ <img style="border-radius: 5px;" src="img/foto2.png" width="600"/><br>
 
 ### Model de negoci
 
@@ -150,7 +150,7 @@ La fabricació no hi és, perquè som una empresa de serveis. Els processos que 
 
 Flux complet: comanda de client -> compra a proveïdor -> entrega -> factura
 
- <img style="border-radius: 5px;" src="img/屏幕截图 2026-11-14 134307.png" width="600"/><br>
+ <img style="border-radius: 5px;" src="img/foto3.png" width="600"/><br>
 
 # **Part 2 - Implantació:**
 
@@ -160,7 +160,10 @@ Flux complet: comanda de client -> compra a proveïdor -> entrega -> factura
 * Crear els productes o serveis  
 * Crear els clients  
 * Crear usuaris / empleats
-
+<img style="border-radius: 5px;" src="img/foto4.png" width="600"/><br>
+<img style="border-radius: 5px;" src="img/foto5.png" width="600"/><br>
+<img style="border-radius: 5px;" src="img/foto6.png" width="600"/><br>
+<img style="border-radius: 5px;" src="img/foto7.png" width="600"/><br>
 # **Part 3 - Gestió:**
 
 Guia explicativa acompanyada de captures de pantalla del flux de la vostra empresa des del moment d’una compra o contractació d’un servei fins al cobrament. Simple però entenedora.
